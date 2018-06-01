@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: ce8fdfee8b8e3ec419ea31731dc72910
+timeCreated: 1510017323
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: balls.001
+    100002: Buidlings
+    100004: chims
+    100006: metal frame
+    100008: //RootNode
+    100010: Pipes
+    100012: Plane
+    400000: balls.001
+    400002: Buidlings
+    400004: chims
+    400006: metal frame
+    400008: //RootNode
+    400010: Pipes
+    400012: Plane
+    2300000: balls.001
+    2300002: Buidlings
+    2300004: chims
+    2300006: metal frame
+    2300008: Pipes
+    2300010: Plane
+    3300000: balls.001
+    3300002: Buidlings
+    3300004: chims
+    3300006: metal frame
+    3300008: Pipes
+    3300010: Plane
+    4300000: balls.001
+    4300002: Buidlings
+    4300004: Pipes
+    4300006: metal frame
+    4300008: chims
+    4300010: Plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chim color3
+    second: {fileID: 2100000, guid: 136e62aa707d0ad44b94b44b51f7ade5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 0fba0b3c34be2b04d95ce01258847c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal white
+    second: {fileID: 2100000, guid: 0c42205d1802c4c488b8547a4bd83aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipes
+    second: {fileID: 2100000, guid: 2cd5f49d40a09a2498d14c75446dcc3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rusty red
+    second: {fileID: 2100000, guid: 6cbcf788854370a408be830b38b17c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube color
+    second: {fileID: 2100000, guid: 84328a16e5304e346b93e26ac53c2e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube color.001
+    second: {fileID: 2100000, guid: 59c15e59830655144bf20ff557199880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube color.002
+    second: {fileID: 2100000, guid: d2b9aec95f009e64ea1601c0259b36de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nuke buidling.002
+    second: {fileID: 2100000, guid: 47914a79c47a6c94596ba15a00c7c816, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

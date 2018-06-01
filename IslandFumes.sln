@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandFumes", "IslandFumes.csproj", "{61810A99-E7D2-FFEF-C6F4-F5EC8CCC36DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandFumes.Plugins", "IslandFumes.Plugins.csproj", "{E78B2713-C374-6123-238E-2560E557D588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandFumes.Editor.Plugins", "IslandFumes.Editor.Plugins.csproj", "{ECA1E1BB-B6D2-4D74-75C6-6DC5A3EC5098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandFumes.Editor", "IslandFumes.Editor.csproj", "{FF7BBFC8-42BE-D592-0B2C-B7A32D544843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61810A99-E7D2-FFEF-C6F4-F5EC8CCC36DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61810A99-E7D2-FFEF-C6F4-F5EC8CCC36DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61810A99-E7D2-FFEF-C6F4-F5EC8CCC36DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61810A99-E7D2-FFEF-C6F4-F5EC8CCC36DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78B2713-C374-6123-238E-2560E557D588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78B2713-C374-6123-238E-2560E557D588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78B2713-C374-6123-238E-2560E557D588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78B2713-C374-6123-238E-2560E557D588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA1E1BB-B6D2-4D74-75C6-6DC5A3EC5098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA1E1BB-B6D2-4D74-75C6-6DC5A3EC5098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA1E1BB-B6D2-4D74-75C6-6DC5A3EC5098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA1E1BB-B6D2-4D74-75C6-6DC5A3EC5098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7BBFC8-42BE-D592-0B2C-B7A32D544843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7BBFC8-42BE-D592-0B2C-B7A32D544843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7BBFC8-42BE-D592-0B2C-B7A32D544843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7BBFC8-42BE-D592-0B2C-B7A32D544843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
